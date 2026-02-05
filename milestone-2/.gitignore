@@ -1,0 +1,6 @@
+venv/
+.venv/
+receipts.db
+__pycache__/
+.env
+*.log
