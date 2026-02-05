@@ -1,7 +1,0 @@
-streamlit
-google-generativeai
-pillow
-pandas
-streamlit-mic-recorder
-streamlit-TTS
-gTTS
